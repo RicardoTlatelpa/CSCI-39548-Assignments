@@ -1,0 +1,36 @@
+.flag { 
+  height: 400px;
+  width: 640px;
+  background-color: black; 
+}
+#white {
+  background-color: #FFF;
+}
+.light-blue{
+  background-color:#00A4E4;
+}
+.red {
+  background-color: #FF002D;
+}
+.threevert {
+  height: 33.33%;
+}
+.thailand-flag {
+  height: 400px;
+  width: 640px;
+  background-color: black; 
+}
+
+.thailand-red{
+  height: 20%;
+  background-color: #B5002D;
+}
+.thailand-blue{
+  height: 33.33%;
+  background-color: #2E2A4C;
+}
+
+.thailand-white{
+  height: 20%;
+  background-color:#F5F5F9;
+}
