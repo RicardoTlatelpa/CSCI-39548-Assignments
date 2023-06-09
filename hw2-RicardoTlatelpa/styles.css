@@ -15,6 +15,10 @@
 .threevert {
   height: 33.33%;
 }
+.threevert-100 {
+  height:100%;
+  width:100%;
+}
 .thailand-flag {
   height: 400px;
   width: 640px;
@@ -31,6 +35,37 @@
 }
 
 .thailand-white{
-  height: 20%;
+  height: 13.33%;
+  width:100%;
   background-color:#F5F5F9;
+}
+
+
+.romania,.flag-flex{
+  display:flex;
+  flex-direction: row;
+}
+.romania-blue{
+  background-color:#012D84;
+}
+.romania-yellow{
+  background-color:#FECF01;
+}
+.romania-red{
+  background-color:#E10116;
+}
+
+.mexico-green{
+  background-color: #006845;
+}
+.mexico-white{
+  background-color: #FFFEFE;
+}
+.mexico-red{
+  background-color: #E10018;
+}
+
+h2:hover {
+  color: #4B6E56;
+  font-size: 200%;
 }
